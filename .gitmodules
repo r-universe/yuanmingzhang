@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dQTG.seq"]
 	path = dQTG.seq
 	url = https://github.com/cran/dQTG.seq
-	shallow = true
-	registered = true
 [submodule "mrMLM"]
 	path = mrMLM
 	url = https://github.com/cran/mrMLM
-	shallow = true
-	registered = true
 [submodule "mrMLM.GUI"]
 	path = mrMLM.GUI
 	url = https://github.com/cran/mrMLM.GUI
-	shallow = true
-	registered = true
 [submodule "QTL.gCIMapping"]
 	path = QTL.gCIMapping
 	url = https://github.com/cran/QTL.gCIMapping
-	shallow = true
-	registered = true
 [submodule "QTL.gCIMapping.GUI"]
 	path = QTL.gCIMapping.GUI
 	url = https://github.com/cran/QTL.gCIMapping.GUI
-	shallow = true
-	registered = true
 [submodule "SEA"]
 	path = SEA
 	url = https://github.com/cran/SEA
-	shallow = true
-	registered = true
