@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dQTG.seq"]
-	path = dQTG.seq
-	url = https://github.com/cran/dQTG.seq
-[submodule "mrMLM"]
-	path = mrMLM
-	url = https://github.com/cran/mrMLM
-[submodule "mrMLM.GUI"]
-	path = mrMLM.GUI
-	url = https://github.com/cran/mrMLM.GUI
 [submodule "QTL.gCIMapping"]
 	path = QTL.gCIMapping
 	url = https://github.com/cran/QTL.gCIMapping
@@ -20,3 +11,12 @@
 [submodule "SEA"]
 	path = SEA
 	url = https://github.com/cran/SEA
+[submodule "dQTG.seq"]
+	path = dQTG.seq
+	url = https://github.com/cran/dQTG.seq
+[submodule "mrMLM"]
+	path = mrMLM
+	url = https://github.com/cran/mrMLM
+[submodule "mrMLM.GUI"]
+	path = mrMLM.GUI
+	url = https://github.com/cran/mrMLM.GUI
